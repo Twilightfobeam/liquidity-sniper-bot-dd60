@@ -1,4 +1,4 @@
-# 
+# automatic Liquidity Bot for liquidity sniper bot | MEV-detection & rug-pull-detection offers the most advanced liquidity sniper bot, with MEV-detection and rug-pull-detection.
 
 
 
